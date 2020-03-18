@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mikkita/ubuntu","disabled":false,"__vagrantfile":true},"vagrant-cache":{"id":"vagrant-cache","guestpath":"/tmp/vagrant-cache","hostpath":"/home/mikkita/.vagrant.d/cache/ubuntu/bionic64","disabled":false,"__vagrantfile":true}}}

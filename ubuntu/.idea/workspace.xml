@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73419492-357f-4abe-beaa-dc34eafb1f11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tdd-java-ch02-example-vagrant" />
+  </component>
+  <component name="ProjectId" id="1ZIOfgD3gHNEL5WvaShBJzP9vLY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TicTacToeInteg.givenMongoDbIsRunningWhenPlayThenNoException" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.packtpublishing.tddjava.ch03tictactoe.TicTacToeInteg.givenMongoDbIsRunningWhenPlayThenNoException&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTestInteg" />
+            <option value=":testInteg" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TicTacToeInteg.givenMongoDbIsRunningWhenPlayThenNoException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73419492-357f-4abe-beaa-dc34eafb1f11" name="Default Changelist" comment="" />
+      <created>1584523246084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584523246084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/tdd-java-ch02-example-vagrant" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1809" height="278" key="GridCell.Tab.0.bottom" timestamp="1584523409227">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state width="1809" height="278" key="GridCell.Tab.0.bottom/65.27.1855.1053@65.27.1855.1053" timestamp="1584523409227" />
+    <state width="1809" height="278" key="GridCell.Tab.0.center" timestamp="1584523409226">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state width="1809" height="278" key="GridCell.Tab.0.center/65.27.1855.1053@65.27.1855.1053" timestamp="1584523409226" />
+    <state width="1809" height="278" key="GridCell.Tab.0.left" timestamp="1584523409226">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state width="1809" height="278" key="GridCell.Tab.0.left/65.27.1855.1053@65.27.1855.1053" timestamp="1584523409226" />
+    <state width="1809" height="278" key="GridCell.Tab.0.right" timestamp="1584523409227">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state width="1809" height="278" key="GridCell.Tab.0.right/65.27.1855.1053@65.27.1855.1053" timestamp="1584523409227" />
+    <state x="481" y="187" key="SettingsEditor" timestamp="1584523352872">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="481" y="187" key="SettingsEditor/65.27.1855.1053@65.27.1855.1053" timestamp="1584523352872" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584523285198">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/65.27.1855.1053@65.27.1855.1053" timestamp="1584523285198" />
+  </component>
+</project>
